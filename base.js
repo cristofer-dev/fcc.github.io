@@ -32,6 +32,6 @@ function peticion(user){
 
 peticion('rodpoblete');
 peticion('cristofer-dev');
-peticion('jose');
+peticion('jakojazz');
 peticion('c-rojasa');
 peticion('luis');
