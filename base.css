@@ -1,0 +1,23 @@
+body{
+    background-image: url("pattern.png");
+    background-size: 20px;
+}
+.column{
+    height: 100vh;
+    background-color: slategrey;
+    
+    /*border-left: solid 1px blue;*/
+    border-left: dashed 4px white;
+    
+}
+
+img{
+    width: 100%;
+}
+.t-center{
+    text-align: center;
+}
+.power{
+    font-size: 2vh;    
+    color: white;
+}
