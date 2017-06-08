@@ -5,7 +5,7 @@ var arrayUser = [
     'cristofer-dev',
     'jakojazz',
     'c-rojasa',
-    'luis'
+    'luisalvaradob'
 ];
 
 function peticion(user,callback){
